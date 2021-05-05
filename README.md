@@ -9,4 +9,4 @@
 * bears_mass.csv is a .csv file containing a column designating species names and a column designating that species mass in kg
 * BCB546_PythonHW_Spring2021-Topping.ipynb is the markdown file containing my documented code for the assignment
 * bears_mass_cytb.csv is the new csv file created at the end of the code (Function 10) which contains the new data frame
-* sequence_translate.py is the actual python code for this assignment, not the markdown file
+* sequence_translate.py contains the documented code provided by Dr. Heath that describes the assignment instructions in detail
